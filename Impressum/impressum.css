@@ -1,0 +1,15 @@
+@font-face {
+    font-family: lineal;
+    src: url(Lineal-Bold.ttf);
+}
+
+*{
+    font-family: lineal;
+}
+
+.container{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
